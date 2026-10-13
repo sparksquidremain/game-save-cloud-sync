@@ -1,0 +1,1 @@
+"""Platform adapters. Windows-specific code lives under windows/."""
