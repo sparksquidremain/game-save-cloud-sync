@@ -1,0 +1,1 @@
+"""Thin handlers — CLI, IPC, tray. No business logic."""
