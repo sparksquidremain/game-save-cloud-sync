@@ -1,0 +1,1 @@
+"""Bootstrap layer — wires config, services, and platform adapters."""
